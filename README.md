@@ -1,2 +1,2 @@
 # GoDash
-## this is atest 
+## A bioinformatic tool.
